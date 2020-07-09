@@ -8,4 +8,4 @@ resources:
   - efs-provisioner.yml
   - rbac.yml
   - mysql-deployment.yml
-  - wordpress-deployment.yml
+  - owncloud-deployment.yml
